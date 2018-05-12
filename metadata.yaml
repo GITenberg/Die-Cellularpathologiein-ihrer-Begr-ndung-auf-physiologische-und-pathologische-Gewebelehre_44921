@@ -1,0 +1,32 @@
+_repo: Die-Cellularpathologiein-ihrer-Begr-ndung-auf-physiologische-und-pathologische-Gewebelehre_44921
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44921-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Virchow, Rudolf
+    aliases:
+    - Virchow, Rudolf Ludwig Karl
+    - Virchow, Rudolph
+    birthdate: 1821
+    deathdate: 1902
+    gutenberg_agent_id: '4552'
+    url: http://www.gutenberg.org/2009/agents/4552
+description: ''
+gutenberg_issued: '2014-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44921'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pathology, Cellular'
+- !lcsh 'Histology, Pathological'
+- !lcc 'RB'
+title: 'Die Cellularpathologie
+
+  in ihrer Begründung auf physiologische und pathologische Gewebelehre'
+url: http://www.gutenberg.org/ebooks/44921
